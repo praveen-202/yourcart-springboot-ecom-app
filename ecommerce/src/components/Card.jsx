@@ -8,6 +8,7 @@ const Card = ({ name, studentClass, roll, school }) => {
       <p><strong>Class:</strong> {studentClass}</p>
       <p><strong>Roll No:</strong> {roll}</p>
       <p><strong>School:</strong> {school}</p>
+      <p>changes by other dev</p>
     </div>
   );
 };
