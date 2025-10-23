@@ -10,6 +10,7 @@ const Card = ({ name, studentClass, roll, school }) => {
       <p><strong>School:</strong> {school}</p>
       <p>changes by devMe</p>
       <p>changes by other dev2 </p>
+      <h1>Welcome by Praveen</h1>
     </div>
   );
 };
