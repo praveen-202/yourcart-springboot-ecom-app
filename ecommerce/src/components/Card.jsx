@@ -12,6 +12,8 @@ const Card = ({ name, studentClass, roll, school }) => {
       <p>changes by other dev2 </p>
       <h1>Welcome by Praveen</h1>
       <h2>Good Morinig by devOther</h2>
+
+      <p>Boom</p>
     </div>
   );
 };
